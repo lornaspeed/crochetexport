@@ -1,0 +1,2 @@
+(this.webpackJsonpcrochet=this.webpackJsonpcrochet||[]).push([[0],{11:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c.n(n),i=c(3),s=c.n(i),o=(c(8),c(9),c(0)),h=function(){return Object(o.jsx)("div",{children:Object(o.jsx)("h1",{children:"Hi. Here's something really simple"})})};s.a.render(Object(o.jsx)(r.a.StrictMode,{children:Object(o.jsx)(h,{})}),document.getElementById("root"))},8:function(e,t,c){},9:function(e,t,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.6566e62f.chunk.js.map
